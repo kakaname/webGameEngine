@@ -1,0 +1,12 @@
+This is a game engine for web based applications
+
+
+The Stack:
+
+React based web game
+
+Node.js with a Elixir backend
+
+Creates a WASM file that is a game.
+
+WASM file uses three.js and WebGL to create graphics for web based game.
